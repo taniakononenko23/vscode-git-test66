@@ -9,7 +9,12 @@
     animation: move 2s;
     animation-fill-mode: forwards;
     transition-timing-function: else; 
-    
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
 }
 div{
     font-family: Arial, Helvetica, sans-serif;
